@@ -59,7 +59,7 @@ Here is alist I curated of SEO tools you can leverage and add to your workflow:
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
-- [Google Search Essentials] (https://support.google.com/webmasters/answer/35769) -The Google Search Essentials make up the core parts of what makes your web-based content 
+- [Google Search Essentials](https://support.google.com/webmasters/answer/35769) -The Google Search Essentials make up the core parts of what makes your web-based content 
 - [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags social tags make content more engaging and improve visibility.
 - [Sitelinks Search Box](https://developers.google.com/structured-data/slsb-overview) - Everything you need to know about the search box.
 
