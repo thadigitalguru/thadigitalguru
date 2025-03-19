@@ -39,9 +39,9 @@ I'm Titus Kores, an SEO specialist with 5 years of experience and varied industr
 
 
 
-Here is alist I curated of SEO tools you can leverage and add to your worklow
 
 ---
+Here is alist I curated of SEO tools you can leverage and add to your workflow:
 
 ## **Analysis and Site Auditing**
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
