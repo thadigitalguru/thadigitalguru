@@ -10,7 +10,7 @@ I'm Titus Kores, an SEO specialist with 5 years of experience and varied industr
 **Role:** _In-house SEO Manager_ Feb 2022-April 2025
 
 **Scope:**  
-- Oversaw SEO for a 30,000+ page site built on Sitecore + React
+- Oversaw SEO for a 30,000+ page site
 - Managed third-party vendors and coordinated technical SEO optimizations
 - Semantic core collection and clustering
 - Technical audit of the site (rules and parameters of robots.txt and sitemap.xml files, pagination and canonicality pages settings. Analysis of duplicates, metadata, LSU, loading speed)
