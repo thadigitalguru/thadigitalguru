@@ -7,7 +7,7 @@ I'm Titus, an SEO specialist with 4 years of experience and varied industry expe
 
 ## Portfolio of SEO Projects
 ### [Pakakumi](https://play.pakakumi.com)
-**Role:** _In-house SEO Manager_ Feb 2022-April 2025
+**Role:** _In-house Technical SEO_ Feb 2022-April 2025
 
 **Scope:**  
 - Oversaw SEO for a 30,000+ page site
