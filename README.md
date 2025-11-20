@@ -1,4 +1,4 @@
-- # Titus Kores - SEO Specialist & Digital marketer
+- # Titus Kores - SEO & Growth marketing Specialist
 
 ## Professional Summary
 I'm Titus, an SEO specialist with 6 years of experience and varied industry experience. I excel in detailed SEO audits, technical optimizations, and strategic planning that drive measurable organic growth across diverse industries. As a proactive problem solver, I've implemented SEO strategies that help rank websites and successfully grown brands online. My expertise bridges deep technical knowledge and broader digital marketing tactics, ensuring tailored, high-impact solutions that fuel long-term business success.
@@ -11,7 +11,7 @@ I'm Titus, an SEO specialist with 6 years of experience and varied industry expe
 
 **Scope:**  
 - Oversaw SEO for a 30,000+ page site
-- Managed third-party vendors and coordinated technical SEO optimizations
+- Managed third-party vendors and coordinated technical SEO optimization
 - Semantic core collection and clustering
 - Technical audit of the site (rules and parameters of robots.txt and sitemap.xml files, pagination and canonicality pages settings. Analysis of duplicates, metadata, LSU, loading speed)
 - Tools I worked with: Google Search Console , Screamingfrog , Google Ads Keyword Planner , Semrush , Google Sheets (Excel), Google Docs (Word) , PageSpeed , Google Analytics 
