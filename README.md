@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="right">
 
 ### **🔹 Titus's GitHub Stats**
 
@@ -40,8 +40,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THADIGITALGURU&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-
 
 
 ## 🛠️ My Stack
