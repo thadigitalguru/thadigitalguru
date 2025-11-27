@@ -19,6 +19,31 @@
 🌱 Currently exploring new technologies and growing my skills  
 ✨ Dreaming of creating AI-powered products that transform people's lives
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+### **🔹 Titus's GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THADIGITALGURU&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+<br/>
+
+### **🏆 GitHub Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=THADIGITALGURU&theme=radical&hide_border=true)
+
+<br/>
+
+### **📂 Most Used Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THADIGITALGURU&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+
+
+
 ## 🛠️ My Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
