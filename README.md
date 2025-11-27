@@ -1,13 +1,13 @@
-# Hello there! 👋 I'm [Titus Ntimama]
+# Hello there! 👋 I'm Titus Ntimama
 
 **Technical SEO • Growth Marketer • Python & Vibe-Coding Enthusiast**
 
 ### [Thadigitalguru] ([Titus-Kores])
 
-- 📊 **X Contributions in 2025**
-- 📁 **X Public Repos**
-- 🎂 **Joined GitHub X years ago**
-- 📧 **your.email@example.com**
+- 📊 **15 Contributions in 2025**
+- 📁 **20 Public Repos**
+- 🎂 **Joined GitHub 5 years ago**
+- 📧 **ntimama2@gmail.com**
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THADIGITALGURU&theme=react-dark)
 
@@ -27,7 +27,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -37,13 +36,13 @@
 
 ---
 
-⭐️ From [Your-Username]((https://github.com/thadigitalguru))
+⭐️ From ((https://github.com/thadigitalguru))
 
 
 
 
 ---
-Here is alist I curated of SEO tools you can leverage and add to your workflow:
+Here is a list I curated of SEO tools you can leverage and add to your workflow:
 
 ## **Analysis and Site Auditing**
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
