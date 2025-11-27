@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="right">
+<div align="left">
 
 ### **🔹 Titus's GitHub Stats**
 
