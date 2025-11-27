@@ -31,7 +31,7 @@
 
 ### **🏆 GitHub Streak**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=THADIGITALGURU&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=THADIGITALGURU&theme=radical&hide_border)
 
 <br/>
 
